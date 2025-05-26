@@ -1,3 +1,2 @@
-# senha dos Admins
-alexandrealan123!
-lolo123szc
+alexandrealan123! #senha de Admin
+lolo123szc #senha de Admin
